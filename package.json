@@ -11,8 +11,7 @@
   },
   "scripts": {
     "preinstall": "node ./pre.build.js",
-    "postinstall": "node ./post.build.js",
-    "install": "node ./build.js"
+    "postinstall": "node ./post.build.js"
   },
   "main": "lib/index.js",
   "license": "MIT",
